@@ -3,8 +3,8 @@
 ## The Mountain
 We have reached the Mountain in this BeCode course, finally!
 
-This assignment is more about learning how to work with symfony, its MVC layout and to learn how to
-work with databases , create entities and relations through this framework, the routing component and the basic of twig!
+This assignment is more about learning how to work with symfony, its MVC layout ,
+the routing component and the basic of twig!
 
 ### To work with it, need to install it first
 
