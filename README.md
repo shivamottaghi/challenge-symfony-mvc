@@ -53,15 +53,14 @@ You can run symfony with any web server like apache. But it also provides its ow
   ```
 
 ### Routs
-To associate a controller with a public url , you can either go to the config directory and make a yaml file,
-or use annotation routs. If your php version is 8 or above you don't need to install anything.
+To associate a controller with a public url , you can either use a xml, php or yaml file to create routes,
+or use annotation routs. If your php version is 8 or above you don't need to install annotations via composer.
 
 In the documentation's example, the goal is to generate a random number (lucky number) and display it. 
 That's all.
 
 In my case I first tried to do it via making a routs.yaml file in config directory, then deleted them all and 
 tried to do it with annotation.
-There is one more thing to do befo
 
 ```php
 class LuckyController
